@@ -47,7 +47,8 @@ kubectl get replicaset.apps
  the image is busybox777
 ```bash
 kubectl describe replicaset.apps
-```![Screenshot from 2023-01-13 18-32-54](https://user-images.githubusercontent.com/103090890/212383765-07ed5f2c-16a8-4885-ba6b-f532cad28d7b.png)
+```
+![Screenshot from 2023-01-13 18-32-54](https://user-images.githubusercontent.com/103090890/212383765-07ed5f2c-16a8-4885-ba6b-f532cad28d7b.png)
 
 
 
