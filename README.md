@@ -33,7 +33,8 @@ spec:
 #Create a YAML file then apply it
 vim deployment-1.yml
 kubectl apply -f deployment-1.yml
-```![Screenshot from 2023-01-13 18-25-39](https://user-images.githubusercontent.com/103090890/212381631-0b6714c3-d46a-4394-89c3-ddc42bc3e258.png)
+```
+![Screenshot from 2023-01-13 18-25-39](https://user-images.githubusercontent.com/103090890/212381631-0b6714c3-d46a-4394-89c3-ddc42bc3e258.png)
 
 #### 2-How many PODs are DESIRED in the new-replica-set?
 
