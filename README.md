@@ -1,5 +1,7 @@
 # K8S-LABS
+[ LABS 2-4 ](#K8S LAB 2)
 
+<a name="K8S LAB 2"> <a/>
 ## K8S LAB 2
 
 #### 1-Create a ReplicaSet using the below yaml
